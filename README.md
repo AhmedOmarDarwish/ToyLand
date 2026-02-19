@@ -2,6 +2,9 @@
 
 Live Demo: 👉 https://ahmedomardarwish.github.io/ToyLand/
 
+![ToyLand Preview](assets/images/logo/ToyLand%20Cover.jpg)
+
+
 A complete, responsive e-commerce website for a toy store built with **HTML5**, **TailwindCSS**, and **Vanilla JavaScript**.
 
 ---
